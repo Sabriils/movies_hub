@@ -1,5 +1,7 @@
 # React + Vite
 
+Projeto de filmes desenvolvido com React.js, integrado à API do TMDB. Implementado com React Router, React Hooks e otimizado com Vite.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
